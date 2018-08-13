@@ -3,7 +3,7 @@
 Turn any element into an upload button. Uploads files through Ajax with progress support.
 
 ### Usage
-```
+```javascript
 <span class="upload">
   <input type="file" style="display:none">
   <button>Upload</button>
@@ -46,3 +46,4 @@ Turn any element into an upload button. Uploads files through Ajax with progress
   })
 </script>
 ```
+MIT Licensed. Enjoy!
