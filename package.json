@@ -1,0 +1,25 @@
+{
+  "name": "uload",
+  "version": "0.0.1",
+  "description": "Uload tiny upload client",
+  "main": "upload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fugroup/uload.git"
+  },
+  "keywords": [
+    "upload",
+    "client",
+    "browser",
+    "tiny"
+  ],
+  "author": "Vidar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fugroup/uload/issues"
+  },
+  "homepage": "https://github.com/fugroup/uload#readme"
+}
