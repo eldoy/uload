@@ -1,14 +1,14 @@
 {
   "name": "uload",
-  "version": "0.0.1",
-  "description": "Uload tiny upload client",
-  "main": "upload.js",
+  "version": "0.1.0",
+  "description": "Uload upload button element",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fugroup/uload.git"
+    "url": "git+https://github.com/eldoy/uload.git"
   },
   "keywords": [
     "upload",
@@ -16,10 +16,10 @@
     "browser",
     "tiny"
   ],
-  "author": "Vidar",
+  "author": "Vidar Eldøy <vidar@eldoy.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fugroup/uload/issues"
+    "url": "https://github.com/eldoy/uload/issues"
   },
-  "homepage": "https://github.com/fugroup/uload#readme"
+  "homepage": "https://github.com/eldoy/uload#readme"
 }
